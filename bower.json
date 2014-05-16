@@ -1,0 +1,13 @@
+{
+	"name":		"Paperdreamer Landing Page",
+	"version":	"",
+	
+	"dependencies": {
+		"bootstrap": 			"latest",
+		"font-awesome": 		"latest",
+		"modernizr": 			"latest",
+		"jquery": 			"latest"
+	},
+
+	"private": true
+}
